@@ -1,0 +1,16 @@
+{
+  "name": "silence",
+  "version": "0.0.0",
+  "description": "Mutes all console.*'s",
+  "main": "silence.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:srounce/silence.git"
+  },
+  "author": "Samuel Rounce",
+  "license": "BSD",
+  "gitHead": "db149ca3969d5a9d0ac32cf6460f3de9519f8fd2"
+}
